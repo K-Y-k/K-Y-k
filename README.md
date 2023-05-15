@@ -29,8 +29,8 @@
 
   <br/><br/>
   
-  [![KYK's GitHub stats](https://github-readme-stats.vercel.app/api?username=K-Y-k)]
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=K-Y-k&layout=compact)]
+  ![KYK's GitHub stats](https://github-readme-stats.vercel.app/api?username=K-Y-k)
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=K-Y-k&layout=compact)
 
   [![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=kyk4957)](https://solved.ac/kyk4957)
 
