@@ -1,12 +1,16 @@
 <div align="center">   
  
   [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FK-Y-k&count_bg=%2379C83D&title_bg=%23504E4E&icon=esea.svg&icon_color=%23FFDD00&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
-
-  ### Hi there 👋 My name is Yong Kyeong Kim.
-  **🌱 I hope to be a BackEnd Developer.** 
+  
   <a href="https://blog.naver.com/kyk7777_">
     <img src="https://img.shields.io/badge/Tech blog-03C75A?style=flat-square&logo=naver&logoColor=white"/>
   </a>
+  <a href="https://www.notion.so/Kim-Yong-Kyeong-6b0e2c8c9af74bda8a8b01d04048035f">
+    <img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white"/>
+  </a>
+	
+  ### Hi there! 👋 My name is Yong Kyeong Kim.
+  **🌱 I hope to be a BackEnd Developer.** 
   
   <br/>
   
@@ -28,16 +32,16 @@
   <img src="https://img.shields.io/badge/Thymeleaf-005F0F?style=flat-square&logo=thymeleaf&logoColor=white" />
 
   <br/><br/>
-  
-  ![KYK's GitHub stats](https://github-readme-stats.vercel.app/api?username=K-Y-k)
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=K-Y-k&layout=compact)
-
+	
   [![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=kyk4957)](https://solved.ac/kyk4957)
-
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=K-Y-k&layout=compact)
+	
 </div>
 
-<!--CD5050 CC9966 FFA500 5C6BC0 B750EA EA9A56-->
 
+<!--CD5050 CC9966 FFA500 5C6BC0 B750EA EA9A56-->
+<!-- ![KYK's GitHub stats](https://github-readme-stats.vercel.app/api?username=K-Y-k) -->
+  
 <!--
 **K-Y-k/K-Y-k** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
