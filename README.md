@@ -21,25 +21,24 @@
   <img height="30em" src="https://img.shields.io/badge/SpringBoot-369F36?style=flat-square&logo=SpringBoot&logoColor=white" />
   <img height="30em" src="https://img.shields.io/badge/JPA-173B3F?style=flat-square&logo=Hibernate&logoColor=white" />
   <img height="30em" src="https://img.shields.io/badge/QDSl-003366?style=flat-square&logo=QDSl&logoColor=white" />
-  <img height="30em" src="https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=ORACLE&logoColor=white" /> 
-  <img height="30em" src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img height="30em" src="https://img.shields.io/badge/MySql-4479A1?style=flat-square&logo=MySql&logoColor=white" />
   <img height="30em" src="https://img.shields.io/badge/H2-5a5a5a?style=flat-square" />
   <br>
-  <img height="30em" src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=Linux&logoColor=black" />
-  <img height="30em" src="https://img.shields.io/badge/Amazon EC2-FF9900?style=flat&logo=Amazon EC2&logoColor=black" />
-  <img height="30em" src="https://img.shields.io/badge/Amazon RDS-527FFF?style=flat&logo=Amazon RDS&logoColor=black" />
-  <img height="30em" src="https://img.shields.io/badge/Amazon S3-69A31?style=flat&logo=Amazon S3&logoColor=white" />
+  <img height="30em" src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=Linux&logoColor=black" />
+  <img height="30em" src="https://img.shields.io/badge/Amazon EC2-FF9900?style=flat-square&logo=Amazon EC2&logoColor=black" />
+  <img height="30em" src="https://img.shields.io/badge/Amazon RDS-527FFF?style=flat-square&logo=Amazon RDS&logoColor=black" />
+  <img height="30em" src="https://img.shields.io/badge/Amazon S3-69A31?style=flat-square&logo=Amazon S3&logoColor=white" />
   
   <h3>FrontEnd</h3>
-  <img height="30em" src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=HTML5&logoColor=white" />
+  <img height="30em" src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white" />
   <img height="30em" src="https://img.shields.io/badge/CSS-288CD2?style=flat-square&logo=CSS3&logoColor=white" />
   <img height="30em" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=black" />
   <img height="30em" src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=Bootstrap&logoColor=white" />
   <img height="30em" src="https://img.shields.io/badge/Thymeleaf-005F0F?style=flat-square&logo=thymeleaf&logoColor=white" />
 
   <h3>CI/CD</h3>
-  <img height="30em" src="https://img.shields.io/badge/GitHub Actions-2088FF?style=flat&logo=GitHub Actions&logoColor=black" />
-  <img height="30em" src="https://img.shields.io/badge/NGINX-009639?style=flat&logo=NGINX&logoColor=black" />
+  <img height="30em" src="https://img.shields.io/badge/GitHub Actions-2088FF?style=flat-square&logo=GitHub Actions&logoColor=black" />
+  <img height="30em" src="https://img.shields.io/badge/NGINX-009639?style=flat-square&logo=NGINX&logoColor=black" />
 
   <br/><br/>
 	
