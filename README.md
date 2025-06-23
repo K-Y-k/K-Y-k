@@ -31,13 +31,14 @@
 
   <h3>DevOps</h3>
   <img height="22em" src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=Linux&logoColor=black" />
-  <img height="22em" src="https://img.shields.io/badge/Amazon EC2-FF9900?style=flat&logoColor=black" />
-  <img height="22em" src="https://img.shields.io/badge/Amazon RDS-527FFF?style=flat&logoColor=black" />
+  <img height="22em" src="https://img.shields.io/badge/Amazon EC2-FF9900?style=flat" />
+  <img height="22em" src="https://img.shields.io/badge/Amazon RDS-527FFF?style=flat" />
   <img height="22em" src="https://img.shields.io/badge/Amazon S3-69A31?style=flat&logoColor=white" />
   <br>
-  <img height="22em" src="https://img.shields.io/badge/GitHub Actions-2088FF?style=flat&logo=githubactions&logoColor=black" />
+  <img height="22em" src="https://img.shields.io/badge/GitHub Actions-2088FF?style=flat&logo=githubactions&logoColor=white" />
   <img height="22em" src="https://img.shields.io/badge/AWS CodeDeploy-288CD2?style=flat" />
-  <img height="22em" src="https://img.shields.io/badge/NGINX-009639?style=flat&logo=NGINX&logoColor=black" />
+  <img height="22em" src="https://img.shields.io/badge/NGINX-009639?style=flat&logo=NGINX&logoColor=white" />
+  <img height="22em" src="https://img.shields.io/badge/SonarCube-FD3456?style=flat&logo=sonarqubeserver&logoColor=white" />
 
 ---
 	
