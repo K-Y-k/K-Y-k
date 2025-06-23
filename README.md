@@ -1,10 +1,10 @@
 <div align="center">   
  
   <a href="https://blog.naver.com/kyk7777_">
-    <img height="25em" src="https://img.shields.io/badge/Tech blog-03C75A?style=plastic&logo=naver&logoColor=white"/>
+    <img height="23em" src="https://img.shields.io/badge/Tech blog-03C75A?style=plastic&logo=naver&logoColor=white"/>
   </a>
   <a href="https://www.notion.so/Kim-Yong-Kyeong-6b0e2c8c9af74bda8a8b01d04048035f">
-    <img height="25em" src="https://img.shields.io/badge/Notion-000000?style=plastic&logo=Notion&logoColor=white"/>
+    <img height="23em" src="https://img.shields.io/badge/Notion-000000?style=plastic&logo=Notion&logoColor=white"/>
   </a>
 	
   ### Hi there! 👋 My name is Yong Kyeong Kim.
